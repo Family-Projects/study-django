@@ -4,6 +4,8 @@
 
 docker-compose run web django-admin startproject foundation .
 
+ls -l
+
 sudo chown -R $USER:$USER .
 
 ALLOWED_HOSTS = ['0.0.0.0']
