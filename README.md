@@ -17,3 +17,6 @@ DATABASES = {
         'PORT': 5432,
     }
 }
+
+Алиасы:
+dcrw="docker-compose run web"
